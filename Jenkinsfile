@@ -16,5 +16,10 @@ pipeline{
         echo "deploying stage"
       }
     }
+    stage ('checked'){
+      steps{
+        echo "checked stage"
+      }
+    }
   }
 }
