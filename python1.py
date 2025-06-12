@@ -8,5 +8,6 @@ print ("Poll")
 print ("Take 2")
 
 
-https://381492107841.signin.aws.amazon.com/console?region=us-east-1
-KN=v2=k5ClW}qy[U1xY2
+https://471112959356.signin.aws.amazon.com/console?region=us-east-1
+cloud_user
+!CZ_{0o@6s41ExBjNxFj
