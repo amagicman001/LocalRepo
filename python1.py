@@ -7,7 +7,4 @@ print ("Added webhook")
 print ("Poll")
 print ("Take 2")
 
-
-https://471112959356.signin.aws.amazon.com/console?region=us-east-1
-cloud_user
-!CZ_{0o@6s41ExBjNxFj
+https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
